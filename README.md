@@ -1,5 +1,7 @@
 # insider-frontend
 
+This repository is developed for frontend in Insider project.
+
 In this project, firstly teams are listed to the user.<br />
 When the user clicks the "Generate Fixture" button, user can examine the fixtures together with the matches to be played week by week.<br />
 "Start Simulation" button, the leaderboard can examine the matches to be played in the new week and the probability of the teams winning the matches in that week.<br />
